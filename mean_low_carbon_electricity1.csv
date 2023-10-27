@@ -1,21 +1,14 @@
 name,parent,value
-Origin,,
-Australia,Origin,15.63197535
-Austria,Origin,74.74624016666667
+Australia,Origin,13.147247625
 Bermuda,Origin,0.0
-Canada,Origin,79.92002375
 Cayman Islands,Origin,0.5872871199999999
-Denmark,Origin,49.867632066666665
-Finland,Origin,68.04449799999999
-Iceland,Origin,99.98023454545455
-Ireland,Origin,22.51277914285714
-Kuwait,Origin,0.0
-Luxembourg,Origin,26.716608994736845
-Netherlands,Origin,16.562990363636363
-Norway,Origin,98.21813555555555
-Qatar,Origin,0.0328219006875
-Singapore,Origin,0.8499151642000001
-Sweden,Origin,97.33719307692309
-Switzerland,Origin,94.59337476470589
-United Kingdom,Origin,21.049417
-United States,Origin,35.11695177777778
+Denmark,Origin,53.26834783333334
+Iceland,Origin,100.0
+Ireland,Origin,27.158794125
+Luxembourg,Origin,27.903245972222223
+Norway,Origin,98.0617671875
+Qatar,Origin,0.033537230099999996
+Singapore,Origin,1.3132125
+Sweden,Origin,97.25005
+Switzerland,Origin,94.56007335714285
+United States,Origin,37.8963945
